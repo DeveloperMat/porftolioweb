@@ -317,6 +317,16 @@ header .follow a:hover {
     width: 50%;
 }
 
+.about .row-2 .skills .progress:nth-child(5) .bar span {
+    width: 20%;
+}
+
+.about .row-2 .skills .progress:nth-child(6) .bar span {
+    width: 20%;
+}
+
+
+
 .about .row-2 .box-container {
     flex: 1 1 40rem;
     display: flex;
